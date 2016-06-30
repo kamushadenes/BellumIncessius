@@ -1,0 +1,23 @@
+backports.shutil-get-terminal-size==1.0.0
+cycler==0.10.0
+decorator==4.0.10
+Django==1.9.7
+django-geoposition==0.2.3
+django-macaddress==1.3.2
+ipython==4.2.0
+ipython-genutils==0.1.0
+matplotlib==1.5.1
+netaddr==0.7.18
+numpy==1.11.1
+pexpect==4.1.0
+pickleshare==0.7.2
+ptyprocess==0.5.1
+pyparsing==2.1.5
+python-dateutil==2.5.3
+pytz==2016.4
+requests==2.10.0
+-e git+https://github.com/kamushadenes/scapy-http.git@a76be80335c542106e05f2dde7ddde959261c8ef#egg=scapy_http
+scapy-python3==0.18
+simplegeneric==0.8.1
+six==1.10.0
+traitlets==4.2.1
